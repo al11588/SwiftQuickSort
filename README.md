@@ -3,4 +3,4 @@
 Swift QuickSort
 ==============
 
-Small Quicksort Algorithm in iOS Swift
+Small Quicksort Algorithm in iOS Swift.
